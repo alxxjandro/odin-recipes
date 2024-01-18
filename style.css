@@ -1,0 +1,21 @@
+
+*{
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    margin-bottom: 60px;
+}
+
+.titleText{
+    text-align: center;
+}
+
+.listElements{
+    font-size: 20px;
+}
+
